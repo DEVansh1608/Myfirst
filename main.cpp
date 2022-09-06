@@ -1,9 +1,3 @@
-//
-//  main.cpp
-//  Sorting_Prob
-//
-//  Created by Parth Sunil Songire on 17/08/22.
-//
 
 #include <iostream>
 #include <string>
